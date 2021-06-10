@@ -40,6 +40,7 @@ The values in ascending sequence are:
 ```
 
 The values in descending sequence:
+```
 ...
-
+```
 
